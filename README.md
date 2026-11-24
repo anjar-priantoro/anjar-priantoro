@@ -6,6 +6,6 @@ Software engineer. Building **[MorningLabs](https://morninglabs.id)** and **[Bua
 - 🧱 **BuatWebMudah**: simple websites for small businesses in Indonesia, live in minutes
 - ✍️ Writing occasionally at **[priantoro.net](https://priantoro.net)**
 
-**Work mostly with:** .NET · TypeScript · Python · SQLite / PostgreSQL · Docker · Linux
+**Work mostly with:** .NET · React · PostgreSQL · Docker · AWS · Linux
 
 Most of my work lives in private repos. Say hi via [priantoro.net](https://priantoro.net).
